@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @infinitecodegod
-- 👀 I’m interested in learning the new technology and i am build new technology
-- 🌱 I’m currently learning rpa , coud computing , redis.
+- 👀 I'm Full-Stack Developer  
+- 🌱 Good Hands-on Practice in Java , RestApi , Android Application, Kafka, Eureka, AWS, HTML$CSS , JavaScript
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ? you never reached me ! have you seen the god ? exaxctly ! congraGULAtion you got the answer ! 
 
