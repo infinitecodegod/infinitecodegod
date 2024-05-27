@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Atul Sharma
 - 👀 I'm Full-Stack Developer  
-- 🌱 Good Hands-on Practice in Java , RestApi , Android Application, Kafka, Eureka, AWS, HTML$CSS , JavaScript
-- 📫 How to reach me ? you will never come close to me ! have you ever seen the god ? exaxctly ! congraGULAtion you got the answer ! 
+- 🌱 Good Hands-on Practice in Java , RestApi , Android Application, Kafka, Spring Core, AWS, HTML$CSS , JavaScript, Junit , expresso !
 
 <!---
 infinitecodegod/infinitecodegod is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
